@@ -1,0 +1,14 @@
+{
+    "quick_test": false,
+    "train_size": 10000,
+    "learning_rate": 0.001,
+    "hidden_layers": 1,
+    "neurons": 64,
+    "batch_size": 1000,
+    "seed": 0,
+    "epochs": 1000,
+    "device": "cpu",
+    "data_path": "swept_volume_data.npz",
+    "eval_test_best": false,
+    "config_dir": null
+}
